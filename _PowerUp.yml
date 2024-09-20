@@ -1,0 +1,2 @@
+              - name: powerplatform-actions
+                uses: microsoft/powerplatform-actions@v1.7.0
