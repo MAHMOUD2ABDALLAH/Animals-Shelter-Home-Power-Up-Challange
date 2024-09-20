@@ -1,0 +1,12 @@
+pp_age: =DateDiff(pp_dateofbirth,Now(),TimeUnit.Years)
+pp_currentlocation: |
+    =If(!IsBlank(pp_dateofadoption)&&
+    !IsBlank(pp_FosterClaimer.pp_fosterid)," ",
+    If(!IsBlank(pp_FosterClaimer.pp_fosterid)&& 
+    !IsBlank(pp_InitialShelter.pp_shelterid),
+    pp_FosterClaimer.pp_fosterid,
+    If(!IsBlank(pp_InitialShelter.pp_shelterid),
+    pp_InitialShelter.pp_shelterid,""
+    )
+    )
+    )
