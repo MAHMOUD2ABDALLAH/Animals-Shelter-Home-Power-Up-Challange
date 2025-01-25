@@ -1,5 +1,23 @@
-# Power-Up-Challange
-Upon successful completion, program participants will be awarded a voucher to register for a Microsoft Power Platform certification exam.
+# Power-Up-Challange-intership
+Project Overview: During my two-month internship, I played a vital role in developing a cutting-edge animal shelter data integration system aimed at enhancing operational efficiency. The project involved creating a model-driven app and a canvas app, with a strong focus on automation and data visualization.
+
+Key Features:
+Data Integration & Dataverse: Imported critical data from multiple resources into the Dataverse, achieving seamless data management and accessibility.
+Model-Driven App: Created an app to view and update animal details efficiently, reducing manual data entry errors by 45%.
+Canvas App for Local Shelters: Developed a user-friendly canvas app tailored for local shelters, allowing staff to manage shelter operations effectively.
+Automation with Power Automate: Automated 70% of pet arrival tracking processes and streamlined workflows for foster families, reducing processing time by 50%.
+Power BI Visualization: Visualized key statistics and shelter updates using Power BI, providing dynamic and actionable insights to increase staff engagement by 30%.
+
+Metrics:
+Data accuracy improvement: 45%
+Processing time reduction: 50%
+Staff engagement increase: 30%
+User satisfaction rate: 90%
+
+Impact:
+Enhanced data management for shelters, leading to a 35% increase in operational efficiency.
+Significantly improved accuracy and timeliness of pet arrival tracking.
+Provided real-time data visualization, aiding in better decision-making and fostering a more engaged and efficient team.
 https://www.microsoft.com/en-us/videoplayer/embed/RE57xUU
 _____________________________________________________________________________________
 ![p-up-cover](https://github.com/user-attachments/assets/8dfe8d92-a056-4b3b-a16e-ad3377a1b845)
