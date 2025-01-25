@@ -1,4 +1,4 @@
-# Power-Up-Challange-intership
+# Power-Up-Challange-Internship
 Project Overview: During my two-month internship, I played a vital role in developing a cutting-edge animal shelter data integration system aimed at enhancing operational efficiency. The project involved creating a model-driven app and a canvas app, with a strong focus on automation and data visualization.
 
 Key Features:
