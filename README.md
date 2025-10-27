@@ -1,4 +1,4 @@
-<img width="100" height="100" align="right" alt="Icon" src="https://github.com/user-attachments/assets/71b88cc4-66f8-4ee1-9753-7380a46dde56" />
+<img width="100" height="100" align="right" alt="Icon" src="https://github.com/user-attachments/assets/e4c613db-bbb8-4899-8d34-dcea1539af97" />
 
 # Animal Shelter Management System - Power Platform Challenge Package
 
