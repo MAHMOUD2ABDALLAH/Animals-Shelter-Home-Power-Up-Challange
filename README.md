@@ -1,5 +1,3 @@
-<img width="100" height="100" align="right" alt="Animals Shelter Home" src="https://github.com/user-attachments/assets/e4c613db-bbb8-4899-8d34-dcea1539af97" />
-
 # Animal Shelter Management System - Power Platform Challenge Package
 
 ## Project Overview
