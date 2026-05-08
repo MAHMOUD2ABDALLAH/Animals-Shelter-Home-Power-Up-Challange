@@ -309,6 +309,4 @@ The solution can be customized to accommodate:
 - Update with new Power Platform features
 - User feedback incorporation
 
----
-
-*This solution is designed to be flexible and adaptable to various animal shelter operations while maintaining core functionality for animal care and adoption management.*
+<img width="200" height="200" alt="Microsoft" src="https://github.com/user-attachments/assets/06b33924-f1ac-4878-8891-9bd1ee0b7ea8" />
