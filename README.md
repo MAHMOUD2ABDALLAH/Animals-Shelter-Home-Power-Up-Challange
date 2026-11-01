@@ -309,4 +309,4 @@ The solution can be customized to accommodate:
 - Update with new Power Platform features
 - User feedback incorporation
 
-<img width="200" height="200" alt="Microsoft" src="https://github.com/user-attachments/assets/06b33924-f1ac-4878-8891-9bd1ee0b7ea8" />
+<img width="100" height="100" alt="Microsoft" src="./Microsoft.svg" />
